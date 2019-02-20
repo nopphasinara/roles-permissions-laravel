@@ -28,6 +28,11 @@ class Permission extends BasePermission
             'add_agents',
             'edit_agents',
             'delete_agents',
+
+            'view_owners',
+            'add_owners',
+            'edit_owners',
+            'delete_owners',
         ];
     }
 }
